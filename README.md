@@ -1,10 +1,12 @@
 # kaggle-bostonHousePrice
-predicting price of houses from features using lenear regression\n
+predicting price of houses from features using lenear regression
 
 num of features = 80
 
 for train:
+
   labeling data except NaN
+  
   replacing mean of columns inplace of NaNs
   scaling using standard scaler
 for test:
