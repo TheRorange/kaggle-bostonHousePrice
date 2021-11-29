@@ -7,19 +7,19 @@ num of features = 80
 
 for train:
 
-  labeling data except NaN
+  {labeling data except NaN
   
   replacing mean of columns inplace of NaNs
   
-  scaling using standard scaler
+  scaling using standard scaler}
   
 for test:
 
-  labeling data except NaN
+  {labeling data except NaN
   
   replacing mean of columns inplace of NaNs
   
-  scaling using standard scaler
+  scaling using standard scaler}
   
 testing different ways of considering features(heatmap for most important features / only number-type data / all) -> "all" gave the best result
 
