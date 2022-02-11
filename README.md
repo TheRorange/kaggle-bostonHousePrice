@@ -1,5 +1,5 @@
 # kaggle-housePrice
-predicting price of houses from features using lenear regression
+predicting price of houses from features using linear regression
 
 
 num of features = 80
