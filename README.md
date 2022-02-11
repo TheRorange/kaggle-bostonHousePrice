@@ -1,4 +1,4 @@
-# kaggle-bostonHousePrice
+# kaggle-housePrice
 predicting price of houses from features using lenear regression
 
 
